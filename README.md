@@ -32,7 +32,7 @@ viewed on a PC serial terminal.
 
 ## Output Screenshot
 
-![ADC UART Output](images/adc_uart_output.png)
+![ADC UART Output](images/output.png)
 
 ## Result
 
